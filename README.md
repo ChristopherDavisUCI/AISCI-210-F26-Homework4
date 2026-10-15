@@ -1,1 +1,1 @@
-See the Homework 3 notebook for instructions.
+See the Homework notebook for instructions.
